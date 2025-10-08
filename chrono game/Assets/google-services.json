@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "888509235203",
+    "project_id": "super-chrono-game",
+    "storage_bucket": "super-chrono-game.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888509235203:android:b6ae1fd2c10e91c6364e36",
+        "android_client_info": {
+          "package_name": "com.zigyrous.supermariobros"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe8sA0UBU-HkCMkRdTBWLhvyL58RHJX2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
